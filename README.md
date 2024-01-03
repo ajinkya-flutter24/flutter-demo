@@ -1,4 +1,4 @@
 # flutter-demo
 First repository 
 <br>
-Auther - Ajinkya
+Auther - Ajinkya Jadkar Fultter project
